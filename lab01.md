@@ -25,10 +25,12 @@ Then I will hand it over to students in breakout rooms, where they can pair them
 **First things first I’m the realest**  
   
 **What went really well today? :)**  
-  
+
+The icebreaker went really well and it was a lot of fun. I think I managed to let students get to know each other. I also did a good job in 1-on-1 helping with students and discussing with AIs.
   
 **What didn’t go so well?**  
-  
+
+I think there are some logistical issues that I did not emphasize enough - the OH queue tool as the preferred way of getting help in section, for instance. This resulted in students keep asking me in Zoom (rather than using the OH queue tool).
   
 **Presentation**  
   
@@ -44,7 +46,7 @@ Did you:
 
   
 **Ideas for improving your presentation:**  
-  
+  I think I did most questions well, but for once I interrupted students while he was explaining his situation for me. He was explaining that he sees the "password deprecated" window on git, and then I just assumed that he needed help and started telling him what to do. However, he then said he actually figured it out. I should listen to students and wait for them to finish their statement of problem in the future.
   
 **Classroom Climate**  
   
@@ -58,7 +60,7 @@ Did you:
 
   
 **Ideas for improving the classroom climate:**  
-  
+I think I maintained a good classroom climate, in general. Students were generally happy.
   
 **Student Participation**  
 
@@ -72,7 +74,11 @@ Did you:
 
   
 **Ideas for improving student participation:**  
-  
+  For the icebreaker though, they were interested and participated through chat.
+
+  Most of this part went really well. It was a remote section so there were not a lot of student interactions. However, I did open up breakout rooms for them to pair up with their free will, and managed to pair students who want but do not have a partner up. 
+
+  The students were also comfortable asking "stupid" questions for a couple of times.
   
 **Focusing on Students**  
   
@@ -86,18 +92,23 @@ Did you:
 
   
 **Ideas for tailoring your teaching to the needs of your students:**  
-  
+  I think this part also went quite well. Since this lab is about computer setup, I gave to them on-point explanations about what was wrong. Also when a student was asking about how Java programs handle the runtime arguments, I also explained to him clearly what it means.
+
+  I could be more inspirational in later labs, but this is a lab where there's not a lot of "whys" can be asked, since it is about rigid setup.
   
 **Lab/1-on-1 Interactions**  
   
 You may skip any questions that are not applicable.  
 
-*   What fraction of students did you interact with?
+*   What fraction of students did you interact with? Most of them, during checkoff.
 
-*   Did you interact with the shy students?
-*   Did you refrain from assuming manual control of the keyboard?
+*   Did you interact with the shy students? Yes.
+
+*   Did you refrain from assuming manual control of the keyboard? Yes. Only told them what to do, not tried to control them.
 
   
 **Ideas to improve 1-on-1 interactions:**  
-  
+  Try to listen until the student finishes their sentence.
+
 **Link to previous self-reflection:**
+  None yet!
