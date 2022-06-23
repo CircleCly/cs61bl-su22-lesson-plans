@@ -127,3 +127,5 @@ Keep the habit of asking students guiding questions!
 When you feel the urge to interrupt students, say "Yeah" and "Uh huh" or "I see" instead - this demonstrates your willingness to listen.
 
 **Link to previous self-reflection:**
+
+https://piazza.com/class/l2ttinkl7ua1r3?cid=77
