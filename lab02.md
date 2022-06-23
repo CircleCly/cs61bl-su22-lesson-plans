@@ -25,10 +25,16 @@ I will mainly be giving lectures. Towards the end of the lecture, I will give th
 **First things first I’m the realest**  
   
 **What went really well today? :)**  
-  
+
+I think I did very well in guiding the students to write up the recursive solution to the ``withdraw`` method, I tried to apply what I learned by asking "what do we know about recursion", and "what do we know about the base case?", and "what are we trying to do in the base case?" etc. In the end the students were able to clear up the confusion and write the answer.
+
+Also I did great job in responding "Good question" to student questions.
   
 **What didn’t go so well?**  
-  
+
+The internet connection today was not as good, I got cutoff 4-5 times and had to repeat myself for some questions and statements.
+
+Also I think I went way overtime when helping one student write the recursive method (50 mins).
   
 **Presentation**  
   
@@ -44,7 +50,12 @@ Did you:
 
   
 **Ideas for improving your presentation:**  
-  
+
+  Reduce the number of fillers in the presentation ("like". "um", and stuff).
+
+  Try to be more confident (Use less "I think" when giving definitive statements).
+
+  Connection was an issue and it was kind of out of my control. I'll debug this if possible.
   
 **Classroom Climate**  
   
@@ -58,7 +69,8 @@ Did you:
 
   
 **Ideas for improving the classroom climate:**  
-  
+
+I think climate was good, so nothing particular to put here.
   
 **Student Participation**  
 
@@ -72,7 +84,8 @@ Did you:
 
   
 **Ideas for improving student participation:**  
-  
+
+I do notice that it is mostly 2-3 students who ask the most questions. Maybe it's just because it's over zoom. As for whether students are comfortable asking "stupid" questions, I will keep my habit of telling students "there's no such thing as a stupid question" and "good question".
   
 **Focusing on Students**  
   
@@ -86,6 +99,8 @@ Did you:
 
   
 **Ideas for tailoring your teaching to the needs of your students:**  
+
+Keep up the good work of asking guiding questions.
   
   
 **Lab/1-on-1 Interactions**  
@@ -94,10 +109,21 @@ You may skip any questions that are not applicable.
 
 *   What fraction of students did you interact with?
 
+    Around 2/3, the rest helped by AIs.
+
 *   Did you interact with the shy students?
+
+    Yes
+
 *   Did you refrain from assuming manual control of the keyboard?
+
+    Yes
 
   
 **Ideas to improve 1-on-1 interactions:**  
-  
+
+Keep the habit of asking students guiding questions!
+
+When you feel the urge to interrupt students, say "Yeah" and "Uh huh" or "I see" instead - this demonstrates your willingness to listen.
+
 **Link to previous self-reflection:**
