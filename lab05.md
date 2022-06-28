@@ -20,10 +20,14 @@ Intro poll, pair work, Q&A, lab work.
 **First things first I’m the realest**  
   
 **What went really well today? :)**  
-  
+
+I feel like the pair work is very effective. I see a lot of active discussion and learning between pairs in breakout rooms,
+which facilitates their understanding of linked lists.
   
 **What didn’t go so well?**  
-  
+
+Many students were not aware of the "whiteboard" function of Zoom, so I guess I should have told them before hand to use the
+"whiteboard" to share with your partner.
   
 **Presentation**  
   
@@ -39,7 +43,9 @@ Did you:
 
   
 **Ideas for improving your presentation:**  
-  
+
+I think my pace was very good for today, for the classes and the code, I walked through the important lines and methods, 
+explaining what they do, instead of just quickly skimming over - which may confuse the students.
   
 **Classroom Climate**  
   
@@ -53,7 +59,8 @@ Did you:
 
   
 **Ideas for improving the classroom climate:**  
-  
+
+Really good!
   
 **Student Participation**  
 
@@ -67,7 +74,8 @@ Did you:
 
   
 **Ideas for improving student participation:**  
-  
+
+I feel like in addition to adding "great questions" when addressing student questions, I can also say "great answer" to address the student response, so students will feel more encouraged to respond to questions.
   
 **Focusing on Students**  
   
@@ -81,19 +89,25 @@ Did you:
 
   
 **Ideas for tailoring your teaching to the needs of your students:**  
-  
-  
+
+I think my explanations were to the point. The questions are more like definitional questions, so I wouldn't think it's necessary to answer with a question.
+
 **Lab/1-on-1 Interactions**  
   
 You may skip any questions that are not applicable.  
 
-*   What fraction of students did you interact with?
+*   What fraction of students did you interact with? Most.
 
-*   Did you interact with the shy students?
-*   Did you refrain from assuming manual control of the keyboard?
+*   Did you interact with the shy students? Yes.
+
+*   Did you refrain from assuming manual control of the keyboard? Yes.
 
   
-**Ideas to improve 1-on-1 interactions:**  
+**Ideas to improve 1-on-1 interactions:** 
+ 
+I tried to ask guiding questions while in 1-on-1 session with the student. However, there was a student who was extremely lost on how to "create a for loop that executes ``n`` times", and the other more "fundamental" concepts. She was actually confused about my guiding questions as well, so I ended up just explaining why ``for (int i = 1; i <= n; i++)`` would work.
+
+Maybe I should try asking her to think about programming concepts she previously knew of? In CS 10? Data 8? I think I tried to ask this, but maybe the student's also losing focus ;(  
   
 **Link to previous self-reflection:**
 @246
