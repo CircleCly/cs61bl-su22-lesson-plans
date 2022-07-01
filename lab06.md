@@ -21,11 +21,14 @@
 **First things first I’m the realest**  
   
 **What went really well today? :)**  
+  The polls and student participation are decent today, students were eager to answer questions.
+  During one-on-ones I did generally a good job in clearing up student confusions. 
   
   
 **What didn’t go so well?**  
-  
-  
+  During one-on-ones towards the end I got tired (because later I discovered that I got a fever, sad ;( )
+  Also for a recursion problem, I should have walked them through the visualizer rather than try to draw the
+  diagrams myself - my drawings were sometimes confusing and I made mistakes.
 **Presentation**  
   
 Did you:
@@ -40,7 +43,8 @@ Did you:
 
   
 **Ideas for improving your presentation:**  
-  
+  I think I should just keep my current lecture pace - makes it easier for students to absorb content
+  There was one time that my mic was too close to my mouth so students say they heard me breathing, I should probably pay attention to this issue in later labs.
   
 **Classroom Climate**  
   
@@ -54,7 +58,7 @@ Did you:
 
   
 **Ideas for improving the classroom climate:**  
-  
+  This was not an issue.
   
 **Student Participation**  
 
@@ -68,7 +72,7 @@ Did you:
 
   
 **Ideas for improving student participation:**  
-  
+  I think I should keep on asking students to share their line of thought.
   
 **Focusing on Students**  
   
@@ -82,18 +86,20 @@ Did you:
 
   
 **Ideas for tailoring your teaching to the needs of your students:**  
-  
+  Most times Java visualizer can be more useful than hand-drawing.
   
 **Lab/1-on-1 Interactions**  
   
 You may skip any questions that are not applicable.  
 
-*   What fraction of students did you interact with?
+*   What fraction of students did you interact with? Most students.
 
-*   Did you interact with the shy students?
-*   Did you refrain from assuming manual control of the keyboard?
+*   Did you interact with the shy students? Yes.
+*   Did you refrain from assuming manual control of the keyboard? Yes.
 
   
 **Ideas to improve 1-on-1 interactions:**  
+  Use the right tool, if it took too long, say "This is confusing indeed, but I'll get back to you later."
   
 **Link to previous self-reflection:**
+  @248
