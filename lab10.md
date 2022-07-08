@@ -20,23 +20,27 @@
 **First things first I’m the realest**  
   
 **What went really well today? :)**  
-  
+  I think the progression of ideas from one to another is rather smooth for asymptotics, and students seem to be able to grasp the ideas.
   
 **What didn’t go so well?**  
-  
+  Took longer than I expected to go through asymptotics stuff, took like 1 hour and 10 mins.
+
+  Also when I want to draw/write stuff with the students I discovered that my stylus of laptop has no power, and the eduroam wifi does not allow my iPad to join.
   
 **Ideas for improving your presentation:**  
-  
+  Maybe refrain from using terminology that may be unfamiliar to students. I think I did better on this day, but just keep it up.
   
 **Ideas for improving the classroom climate:**  
-  
+  So far so good, but maybe try using zoom polls for questions and answers since some students may give the answers too quickly and one student complained "not having time to think".
   
 **Ideas for improving student participation:**  
-  
+  Introduce more breakout room activity for similar content maybe? Today there is no breakout room work but I think it might be useful to have some.
   
 **Ideas for tailoring your teaching to the needs of your students:**  
-  
+  Questioning and answering seems really useful and helpful.
   
 **Ideas to improve 1-on-1 interactions:**  
+  All good, I especially like how I analyzed an algorithmic analysis problem about recursion with the student, basically walkthrough the steps with him and ask him where he want to go next. The student was also curious about extra tips (Master theorem, for instance) and I directed him to google and to future CS courses like 170.
   
 **Link to previous self-reflection:**
+@518
