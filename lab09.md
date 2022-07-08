@@ -20,79 +20,38 @@
 **First things first I’m the realest**  
   
 **What went really well today? :)**  
-  
+  I did much better at timing compared with yesterday. I felt that I spent fewer time talking and gave students more time to work on the lab.
+
+  Although I still cough quite a bit, I now bring plenty of water to drink, so whenever I feel uncomfortable, I just drink water.
   
 **What didn’t go so well?**  
-  
-  
-**Presentation**  
-  
-Did you:
-
-*   speak in a clear voice that could be easily heard?
-*   write clearly?
-*   listen carefully to students’ comments and questions without interrupting?
-*   appear confident?
-*   appear enthusiastic?
-*   provide clear explanations?
-*   explain terminology?
-
+  There were some audio issues which I'm not sure why happened. Furthermore, When I did one on one the eduroam at Soda 277 network betrayed on me and made me could not hear one student. However this did not have too much of an impact on my mini-lecture.
   
 **Ideas for improving your presentation:**  
-  
-  
-**Classroom Climate**  
-  
-Did you:
+  Keep the trick of drinking water if you are coughing.
 
-*   address students of all genders equally?
-*   address students of different ethnic groups equally?
-*   address shy and forthcoming students equally?
-*   feel like students were generally happy (e.g. no angry students)?
-*   take the time to learn your students’ names?
-
-  
 **Ideas for improving the classroom climate:**  
-  
-  
-**Student Participation**  
-
-*   Are students comfortable interacting with you?
-*   Are the students comfortable interacting with each other?
-*   How often were you talking versus the students?
-*   Did you encourage the students to ask questions?
-*   Are students comfortable asking “stupid” questions?
-*   Were you happy with how long it took for students to answer your questions?
-*   Did the students seem interested and engaged?
-
+  Keep up the good work!
   
 **Ideas for improving student participation:**  
-  
-  
-**Focusing on Students**  
-  
-Did you:
-
-*   try to answer a student’s question with a question?
-*   try to find out what the students knew before giving an explanation?
-*   provide explanations to address both struggling and excelling students?
-*   feel like students understood your explanations?
-*   feel like students, in general, really understand with the material?
-
+  Today's content was a bit bland and not much place for students to ask questions. Moving into the more conceptual stuff, I will give students more guiding questions. Exam prep was great today so I should keep letting students discuss exam prep questions.
   
 **Ideas for tailoring your teaching to the needs of your students:**  
+  I feel like the idea of putting an optional demo for iterators is quite useful for students, and it also saves students time.
   
   
 **Lab/1-on-1 Interactions**  
   
 You may skip any questions that are not applicable.  
 
-*   What fraction of students did you interact with?
+*   What fraction of students did you interact with? Most students. However not a lot came because the lab was easy & some of them skipped lab because they knew they have the recordings.
 
-*   Did you interact with the shy students?
-*   Did you refrain from assuming manual control of the keyboard?
+*   Did you interact with the shy students? Yes. 
+*   Did you refrain from assuming manual control of the keyboard? Yes.
 
   
 **Ideas to improve 1-on-1 interactions:**  
+  Troubleshoot the audio & network issue.
   
 **Link to previous self-reflection:**
+  @439
