@@ -44,3 +44,4 @@
   I feel like since this is more of a paradigm it might be more useful to just show them the paradigm (maybe a different example).
   
 **Link to previous self-reflection:**
+  @716
