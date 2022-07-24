@@ -2,15 +2,15 @@
 
 What is some things about their teaching that they want you to focus on during this class?
 
-They normally don't ask lots of questions because not many students will be responding and they feel like students prefer listening. So, they want me to focus on her asking more questions to engage students.
+Today she will make the mini lecture shorter because today is project 2 due date, so she wants to give students a little bit more time to work on the project.
 
 What, if any, contextual issues should you keep in mind for this class (e.g. some students dominate the conversation, it's early in the morning, etc)?
 
-Most students don't turn on their cameras. Students usually come in 5 minutes late.
+There might be less people today because many of them are working on the project. And there are two to three students are the ones that are most active and always ask questions in the chat.
 
 What activities will they do during class? (e.g. Group work? Pair work? Lecture?)
 
-They will start with a mini lecture, and then they will do an exam prep problems. Students will be split into breakout rooms randomly to discuss the problems for 5 minutes. Then students will come back and they will go through the solution. Then students will choose to join breakout rooms with their partners to work on the lab.
+Only a mini lecture at the beginning, and then go through a few exam prep problems together. Then students will be sent to breakout rooms to work on the lab and project.
 
 <ins> Immediately after their section </ins>
 
@@ -18,14 +18,17 @@ They will start with a mini lecture, and then they will do an exam prep problems
 
 What did they do well?
 
-She touched 
+She did very well on controlling the time of lecturing and giving students more time to work on Gitlet. She covered all important concepts and was able to stop at times to ask if students have any questions (even though there seems to be not any). There were also more people that attended her section than expected (~22 I think?).
+
 What are some areas that could use improvement?
 
-I think during breakout rooms they can join the different breakout rooms and hear students discuss.
+Although teaching style is up to one's personal preference, she could try to insert a bit of memes/jokes to keep the students engaged.
+
+Another thing she could do is to make use of sanity check questions to let students answer (like in the slides there was one "Poll: which bucket would this go into?). Again, this might not be 100% applicable since her section's students might get inactive and not respond, but I do think encouraging student active learning would be helpful.
 
 Do you have any suggestions for ways they could change their teaching?
 
-Stop more often for questions and ask more guiding questions.
+Yeah basically the same as what I discussed above - humor (when you feel comfortable doing so), and use interactive questions.
 
 <ins> Presentation </ins>
 
@@ -49,7 +52,7 @@ _____ explain terminology?
 
 Notes on their presentation:
 
-Explanations were to-the-point and very clear, also the slides have some great examples to illustrate the point. Also I like how they introduced why we need ``@Override``.
+Explanations were to-the-point and very clear, and covered all points that have to do with HashMaps and Hash Functions.
 
 <ins> Classroom Climate </ins>
 
@@ -81,7 +84,7 @@ _____ Did the students seem interested and engaged?
 
 Notes on student participation:
 
-Students seem comfortable asking questions in chat, also, the design of breakout room discussions could encourage student actie learning.
+A lot of students went in to her mini-lecture. However I don't think students have a lot of questions (elaborated below).
 
 <ins> Focusing on Students </ins>
 
@@ -97,7 +100,8 @@ _____ Did the students seem to understand the TA's explanations?
 
 Notes on how students were acting during class (engaged, enthusiastic, distracted, bored, etc):
 
-Can't say since it's a remote setting, but students seem engaged and active in asking questions.
+Students do not have a lot of questions. It could be that the idea of hashing is kind of intuitive to grasp. (Or maybe it's
+just a thing about online sections where people just not participate).
 
 <ins> Lab/1-on-1 Interactions </ins>
 
@@ -113,4 +117,4 @@ _____ refrain from assuming manual control of the keyboard?
 
 Notes on 1-on-1 interactions:
 
-For breakout rooms, they can go around the rooms and check in on the students.
+She's doing great on helping out individual students!
